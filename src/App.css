@@ -31,3 +31,7 @@
     transform: rotate(360deg);
   }
 }
+
+.InputComponent{
+  margin-bottom: 20px
+}
